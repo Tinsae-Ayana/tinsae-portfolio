@@ -23,7 +23,7 @@ const About = () => {
                   className='flex-1 flex justify-center items-center h-[640px] mix-blend-lighten bg-top rounded-full overflow-hidden'
                >
                   <img
-                     src='src/assets/Tinsae-Ayana-Yehuala.jpg'
+                     src='/tinsae-portfolio/assets/Tinsae-Ayana-Yehuala.jpg'
                      className='w-1/2 h-1/2 rounded-full object-cover'
                   />
                </motion.div>
