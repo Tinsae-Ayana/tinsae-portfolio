@@ -28,12 +28,10 @@ const Work = () => {
                   {/* image */}
                   <a href='https://tinsae-ayana.github.io/ip-address-tracker/' target='_blank'>
                      <div className='group relative overflow-hidden border-2  border-white/50 rounded-xl'>
-                        {/* overlay */}
                         <div className='group-hover:bg-black/70 w-full h-full relative z-40  transiton-all  duration-300'>
                            <img
                               className='group-hover:scale-125 transition-all duration-500'
-                              src='/src/assets/iptracker.png'
-                              alt=''
+                              src='/src/assets/iptracker.PNG'
                            />
                         </div>
                      </div>
@@ -49,11 +47,10 @@ const Work = () => {
                   {/* image */}
                   <a href='https://tinsae-ayana.github.io/space-toursim/' target='_blank'>
                      <div className='group relative overflow-hidden border-2  border-white/50 rounded-xl'>
-                        {/* overlay */}
                         <div className='group-hover:bg-black/70 w-full h-full relative z-40  transiton-all  duration-300'>
                            <img
                               className='group-hover:scale-125 transition-all duration-500'
-                              src='/tinsae-portfolio/src/assets/spacetoursim.png'
+                              src='/tinsae-portfolio/src/assets/spacetoursim.PNG'
                               alt=''
                            />
                         </div>
@@ -62,11 +59,10 @@ const Work = () => {
                   {/* image */}
                   <a href='https://tinsae-ayana.github.io/LOBE-CLONE/' target='_blank'>
                      <div className='group relative overflow-hidden border-2  border-white/50 rounded-xl'>
-                        {/* overlay */}
                         <div className='group-hover:bg-black/70 w-full h-full relative z-40  transiton-all  duration-300'>
                            <img
                               className='group-hover:scale-125 transition-all duration-500'
-                              src='/tinsae-portfolio/assets/lobe.png'
+                              src='/tinsae-portfolio/assets/lobe.PNG'
                               alt=''
                            />
                         </div>
