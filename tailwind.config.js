@@ -24,9 +24,9 @@ export default {
             accent: "#B809C3",
          },
          backgroundImage: {
-            site: "url('./assets/site-bg.jpg')",
-            about: "url('./assets/Tinsae-Ayana-Yehuala.jpg')",
-            services: "url('./assets/services.png')",
+            site: "url('/assets/site-bg.jpg')",
+            about: "url('/assets/Tinsae-Ayana-Yehuala.jpg')",
+            services: "url('/assets/services.png')",
          },
       },
    },

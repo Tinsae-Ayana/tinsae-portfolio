@@ -31,7 +31,7 @@ const Work = () => {
                         <div className='group-hover:bg-black/70 w-full h-full relative z-40  transiton-all  duration-300'>
                            <img
                               className='group-hover:scale-125 transition-all duration-500'
-                              src='/src/assets/iptracker.PNG'
+                              src='/tinsae-portfolio/assets/iptracker.PNG'
                            />
                         </div>
                      </div>
@@ -50,7 +50,7 @@ const Work = () => {
                         <div className='group-hover:bg-black/70 w-full h-full relative z-40  transiton-all  duration-300'>
                            <img
                               className='group-hover:scale-125 transition-all duration-500'
-                              src='/tinsae-portfolio/src/assets/spacetoursim.PNG'
+                              src='/tinsae-portfolio/assets/spacetoursim.PNG'
                               alt=''
                            />
                         </div>
